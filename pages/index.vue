@@ -6,7 +6,7 @@
         jamstack-qc
       </h1>
       <h2 class="subtitle">
-        My awesome Nuxt.js project
+        My super duper Nuxt.js project
       </h2>
       <div class="links">
         <a
