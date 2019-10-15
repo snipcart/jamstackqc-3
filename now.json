@@ -2,8 +2,8 @@
   "builds":[
     {
       "src" : "package.json",
-      "distDir" : "dist",
-      "use": "@now/static-build"
+      "use": "@now/static-build",
+      "config": {"distDir" : "dist"}
     }
   ]
 }
